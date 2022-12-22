@@ -1,11 +1,11 @@
 # sippy_cup_and_sippy
 SIPPY and SIPPY_CUP both are bundled in single Docker
 
-1. Youtube `https://www.youtube.com/channel/UCwqTU1vhes8u5yqXyhW3xoA`
-2. Facebook `https://www.facebook.com/Dev0ps`           
-3. Twitter `https://twitter.com/devOps_axprt`
-4. Instagram `https://www.instagram.com/manzoor5152/`
-5. UpWork `https://www.upwork.com/freelancers/~01affa866a06d807df?viewMode=1`
+1. Youtube https://www.youtube.com/channel/UCwqTU1vhes8u5yqXyhW3xoA
+2. Facebook https://www.facebook.com/Dev0ps           
+3. Twitter https://twitter.com/devOps_axprt
+4. Instagram https://www.instagram.com/manzoor5152/
+5. UpWork https://www.upwork.com/freelancers/~01affa866a06d807df?viewMode=1
 
 ## Information
 Please check Git for Further Guide
