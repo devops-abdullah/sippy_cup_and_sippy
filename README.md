@@ -11,8 +11,8 @@ UpWork: https://www.upwork.com/freelancers/~01affa866a06d807df?viewMode=1
 
 ## Information
 Please check Git for Further Guide: 
-     -   SIPPY_CUP: https://github.com/mojolingo/sippy_cup
-     -   SIPPY: https://github.com/SIPp/sipp/releases/download/v3.6.1/sipp-3.6.1.tar.gz
+SIPPY_CUP Git Link https://github.com/mojolingo/sippy_cup
+SIPPY Package Link https://github.com/SIPp/sipp/releases/download/v3.6.1/sipp-3.6.1.tar.gz
 
 ## How to RUN Information
 1. Install the Docker on your mahcine
